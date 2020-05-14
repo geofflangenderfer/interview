@@ -1,0 +1,34 @@
+## Topics to cover
+- java memory management
+- common collection/libraries
+- relational vs. non-relational database tradeoffs
+- distributed computing
+  - service-oriented architecture
+  - map-reduce
+  - distributed caching 
+  - load-balancing
+- OS
+  - memory management
+  - processes
+  - threads
+  - synchronization
+  - paging
+  - multithreading
+- Internet
+  - high-level on browsers
+  - DNS lookups
+  - TCP/IP
+  - socket connections
+- ML/AI
+  - data-driven modeling
+  - train/test protocol
+  - error analysis
+  - statistical significance
+  - given problem definition, propose
+    - data sources
+    - annotation
+    - modeling approaches
+    - potential pitfalls
+  - understand basic methods and algorithms
+- Leadership Principles
+  - situation, behavior, impact for each principle
